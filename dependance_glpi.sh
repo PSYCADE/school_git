@@ -1,5 +1,6 @@
 
 
+sudo apt-get install mariadb-server
 
 sudo mysql -u root -p -e '
 CREATE DATABASE IF NOT EXISTS glpitest;
